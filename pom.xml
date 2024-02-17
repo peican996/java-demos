@@ -21,6 +21,7 @@
         <module>jsr</module>
         <module>springmvc-demo</module>
         <module>curl-demo</module>
+        <module>zookeeper-demo</module>
     </modules>
 
     <groupId>com.wpc</groupId>
